@@ -1,0 +1,71 @@
+html{
+    height:100%;
+}
+
+body{
+    background-color:black;
+    height:100%;
+}
+
+.tableclass{
+    background-color:red;
+    color:white;
+    font-size:18px;
+    border-style:solid;
+    border-color:white;
+    border-width:10px;
+    height:95%;
+    width:100%;
+}
+
+.rowone{
+    background-color:blue;
+}
+
+.rowtwo{
+    background-color:green;
+    color:yellow;
+    text-align:center;
+}
+
+.rowOneColOne{
+    border-style:solid;
+    border-color:yellow;
+    border-width:5px;
+    padding-left:100px;
+}
+
+.rowOneColtwo{
+    border-style:dashed;
+    border-color:black;
+    border-width:5px;
+}
+
+.rowOneColthree{
+    border-style:dotted;
+    border-color:orange;
+    border-width:5px;
+    color:red;
+}
+
+.rowtwoColOne{
+    border-style:double;
+    background-color:purple;
+    border-width:5px;
+}
+
+.rowtwoColtwo{
+    border-style:groove;
+    border-color:blue;
+    border-width:10px;
+    font-size:28px;
+}
+
+.rowtwoColthree{
+    font-size:22px;
+    font-style:arial;
+    color:purple;
+    border-style:inset;
+    border-color:yellow;
+    border-width:5px;
+}
